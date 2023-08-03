@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829984940327",
+    "project_id": "tolanotes",
+    "storage_bucket": "tolanotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829984940327:android:f78fa9f457f6a5a3a24902",
+        "android_client_info": {
+          "package_name": "ng.tola.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829984940327-3o037vd8aqc4b7mifub9ktrm9vkf0s1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Urpr124lFmcWsQLl0AY6j8JU7GaqMGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829984940327-3o037vd8aqc4b7mifub9ktrm9vkf0s1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
