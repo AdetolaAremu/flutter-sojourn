@@ -5,7 +5,7 @@ import 'package:mynotes/views/login.dart';
 import 'package:mynotes/views/notes_view.dart';
 import 'package:mynotes/views/register.dart';
 import 'package:mynotes/views/verify_email.dart';
-import 'firebase_options.dart';
+// import 'firebase_options.dart';
 // import 'dart:developer' as devtools show log;
 
 void main() {
